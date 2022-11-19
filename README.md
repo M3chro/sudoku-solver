@@ -1,2 +1,2 @@
 # sudoku-solver
-Project for OPR
+OPR project
